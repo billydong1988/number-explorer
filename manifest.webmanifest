@@ -1,0 +1,1 @@
+{"name": "數字探險隊｜算術打地鼠", "short_name": "算術打地鼠", "start_url": "./", "display": "standalone", "background_color": "#eaf5ff", "theme_color": "#102b4e", "icons": [{"src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"}, {"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]}
